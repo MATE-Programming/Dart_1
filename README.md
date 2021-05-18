@@ -27,7 +27,7 @@
          В этой папке создаем новый файл и именуем как хотим)
          Ну серьезно, главное чтобы было расширение ".dart" . Вот так:
 
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/Dart_1/3.png?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/Dart_1/3.gif?raw=true)
 
          После этого можно уже заранить свой код внутри main. 
          Используя верхнюю кнопку "Run".
