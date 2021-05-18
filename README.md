@@ -3,7 +3,7 @@
 # Практическое задание
 
 #### Начнём с установки IDE 
-      Для работы с Dart мы будем использовать Visual Studio Code. 
+   Для работы с Dart мы будем использовать Visual Studio Code. 
       При желании вы можете воспользоваться Android Studio(она нам понадобиться позже при работе с Flutter). 
       Почему Visual Studio Code? Она менее ресурсоемкая и тут чисто личное предпочтение самого человека. 
       Для Android Studio можете найти полезный гайд [здесь]:https://github.com/user/repo/blob/branch/other_file.md и тута.
