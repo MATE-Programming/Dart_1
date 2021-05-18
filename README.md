@@ -15,6 +15,7 @@
          устанавливаем расширение для работы с Dart. Открываем вкладку Extensions. 
          И прям там в поисковике клацаем "Dart". 
          Устанавливаем первое, предложенной самой IDE, расширение.
+
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/Dart_1/1.png?raw=true)
 
 
